@@ -1,26 +1,94 @@
 {
-  data: {
-       verses: [ 
-           {
-             url: "https://i.imgur.com/KTQd8Qn.mp4",
-             name: "ck"
-           },
-        {
-             url: "url",
-             name: "name"
-           },
- {
-             url: "url",
-             name: "name"
-           },
- {
-             url: "url",
-             name: "name"
-           },
- {
-             url: "url",
-             name: "name"
-           }
-       ]
+  "badolll": [
+    {
+      "number": 1,
+      "name": "ck",
+      "verses": [
+        "https://i.imgur.com/Nh6GeWQ.mp4",
+        "https://i.imgur.com/KTQd8Qn.mp4",
+        "Url3"
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Name",
+      "verses": [
+        "Url1",
+        "Url2",
+        "Url3"
+      ]
     }
- }
+  ]
+}
